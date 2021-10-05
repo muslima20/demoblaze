@@ -1,0 +1,40 @@
+Regression Test Cases
+
+TC_1: Headers links should be working correctly
+    Test Cases:
+     1.Check the top of the page on the right side there should be six header links
+     2.Try to click every single headers
+     3.Make sure all the links are clickable.
+
+TC_2: Company logo image link should be working properly
+    Test Cases:
+     1.Check the top of the page on the left side there should be logo image
+     2.Click the logo image 
+     3.It should upload the website.
+
+TC_3: "Home" link should take the user to homepage when clicked
+    Test Cases:
+     1.Click the "Home" link
+     2.Then list of Items should popup with images.
+
+TC_4: Contact link should open a popup window
+    Test Cases:
+     1.Click the contact link
+     2.It should open a popup window called "New Messages"
+
+TC_5: About Us link should open a popup window with a video
+    Test Cases:
+     1.Click on About us link 
+     2.It should open a popup window with video
+
+TC_6: Cart link should open a separate cart page
+    Test Cases:
+     1.Check the Cart link
+     2.It should open and shows the cart id empty or not.
+TC_7: Log in button should open a popup window to log into the system
+
+TC_8: Sign up button should open a popup window to log into the system
+
+TC_9: Carousel images should be changed automatically every 3 second
+
+TC_10: Left and right arrow buttons should change the carousel images accordingly
